@@ -1,4 +1,4 @@
-# Code Editor
+# Chat Application
 
 A Real-time Chat Application
 ## Description
