@@ -18,6 +18,7 @@ Responsive on mobile and small devices.
 
 https://github.com/pritamjoardar/Realtime-Chat-Application-/assets/111422356/55fd4871-321f-404f-9bde-b410b2273402
 
+![screencapture-pritamjoardar-github-io-chatApp-2024-01-17-11_22_06](https://github.com/pritamjoardar/Realtime-Chat-Application-/assets/111422356/3f05a0fd-195a-4146-83e7-2c1de3c0f33c)
 
 
 ## Getting Started
